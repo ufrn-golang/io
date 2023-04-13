@@ -18,19 +18,19 @@ Este repositório contém um conjunto de arquivos fonte demonstrando, cada um, o
        ├─── args        ---> Diretório com exemplo utilizando argumentos de linha de comando
        ├─── flags       ---> Diretório com exemplo utilizando flags na linha de comando
   ├─── file             ---> Diretório com exemplos sobre entrada e saída utilizando arquivos
-       ├─── bufio       ---> Diretório com exemplo de leitura de arquivo com [bufio.Reader.ReadString](https://pkg.go.dev/bufio#Reader.ReadString)
+       ├─── bufio       ---> Diretório com exemplo de leitura de arquivo com bufio.Reader.ReadString
        ├─── fileout     ---> Diretório com exemplo de escrita em arquivo com descritor
-       ├─── ioutil      ---> Diretório com exemplo de leitura de arquivo com [io/ioutil.ReadFile](https://pkg.go.dev/io/ioutil#ReadFile)
-       ├─── reader      ---> Diretório com exemplo de leitura de um arquivo grande com [bufio.Reader.Read](https://pkg.go.dev/bufio#Reader.Read)
-       ├─── writer      ---> Diretório com exemplo de escrita em arquivo com [bufio.Writer.Write](https://pkg.go.dev/bufio#Writer.Write)
+       ├─── ioutil      ---> Diretório com exemplo de leitura de arquivo com io/ioutil.ReadFile
+       ├─── reader      ---> Diretório com exemplo de leitura de um arquivo grande com bufio.Reader.Read
+       ├─── writer      ---> Diretório com exemplo de escrita em arquivo com bufio.Writer.Write
        ├─── writestring ---> Diretório com exemplo de escrita em arquivo com descritor
   ├─── stdin            ---> Diretório com exemplos sobre entrada via console
-       ├─── readstring  ---> Diretório com exemplo de leitura da entrada padrão com [bufio.Reader.ReadString](https://pkg.go.dev/bufio#Reader.ReadString)
-       ├─── scanln      ---> Diretório com exemplo de leitura da entrada padrão com [fmt.Scanln](https://pkg.go.dev/fmt#Scanln)
-       ├─── scanner     ---> Diretório com exemplo de leitura da entrada padrão com [fmt.Sscanf](https://pkg.go.dev/fmt#Sscanf)
-       ├─── sscanf      ---> Diretório com exemplo de leitura da entrada padrão com [bufio.Scanner](https://pkg.go.dev/bufio#Scanner)
+       ├─── readstring  ---> Diretório com exemplo de leitura da entrada padrão com bufio.Reader.ReadString
+       ├─── scanln      ---> Diretório com exemplo de leitura da entrada padrão com fmt.Scanln
+       ├─── scanner     ---> Diretório com exemplo de leitura da entrada padrão com fmt.Sscanf
+       ├─── sscanf      ---> Diretório com exemplo de leitura da entrada padrão com bufio.Scanner
   ├─── stdout           ---> Diretório com exemplos sobre saída via console
-       ├─── writer      ---> Diretório com exemplo de escrita na saída padrão com [bufio.Writer.WriteString](https://pkg.go.dev/bufio#Writer.WriteString)
+       ├─── writer      ---> Diretório com exemplo de escrita na saída padrão com bufio.Writer.WriteString
 ```
 
 ## Requisitos
